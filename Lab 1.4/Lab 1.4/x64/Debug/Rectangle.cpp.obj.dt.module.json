@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab 1.4\\x64\\Debug\\Rectangle.obj",
+            "outputs": [
+                "Lab 1.4\\x64\\Debug\\Rectangle.cpp.obj.dt.module.json",
+                "Lab 1.4\\x64\\Debug\\Rectangle.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
